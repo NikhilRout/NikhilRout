@@ -12,4 +12,4 @@
 ![Static Badge](https://img.shields.io/badge/quartus-lightblue?style=for-the-badge&logo=intel)
 ![Static Badge](https://img.shields.io/badge/VIVADO-red?style=for-the-badge&logo=amd)
 
-![NikhilRout's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRout&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[//]: <![NikhilRout's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRout&theme=dark&show_icons=true&hide_border=true&layout=compact)>
