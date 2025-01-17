@@ -16,6 +16,3 @@
 ![Static Badge](https://img.shields.io/badge/quartus-lightblue?style=for-the-badge&logo=intel)
 ![Static Badge](https://img.shields.io/badge/VIVADO-red?style=for-the-badge&logo=amd)
 ![Static Badge](https://img.shields.io/badge/Virtuoso-white?style=for-the-badge)
-
-
-![NikhilRout's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRout&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark&show_icons=true&hide_border=true&layout=compact)
