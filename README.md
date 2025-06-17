@@ -17,4 +17,4 @@
 
 [//]: <![Static Badge](https://img.shields.io/badge/Cadence_Genus-white?style=for-the-badge)>
 
-![NikhilRout's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRout&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![NikhilRout's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRout&size_weight=0.6&count_weight=0.6&langs_count=8&theme=dark&show_icons=true&hide_border=true&layout=compact)
